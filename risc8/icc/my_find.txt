@@ -1,0 +1,5 @@
+tran
+transistor
+ fulladd2.v  fulladd4.v  fulladd.v  risc8
+fulladd1.v  fulladd3.v  fulladd5.v  grep.log   risc8_control.v
+

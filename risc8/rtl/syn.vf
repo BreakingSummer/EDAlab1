@@ -1,0 +1,7 @@
+risc8_constants.v
+risc8_parameters.v
+rbcla_adder.v
+risc8.v
+risc8_alu.v
+risc8_control.v
+risc8_regb_biu.v
